@@ -5,13 +5,13 @@
 
 
 .top {
-    padding: 14px;
+    padding: 31px;
     background-color: rgba(5, 4, 4, 0.781);
     margin-top: -520px;
-    padding-right: 296px;
+    padding-right: 385px;
 }
 
-.top li {
+.top h1 {
     text-decoration: none;
     display: block;
     font-size: 22px;
@@ -19,6 +19,7 @@
     margin-left: -2px;
     color: bisque;
     font-style: italic;
+    margin-top: -10px;
 }
 
 .ban {
@@ -78,8 +79,8 @@
 }
 
 .ali {
-    margin-top: -500px;
-    margin-left: 370px;
+    margin-top: -497px;
+    margin-left: 335px;
 }
 
 .bot {
@@ -95,10 +96,10 @@
 }
 
 .ban2 {
-    padding: 129px;
+    padding: 131px;
     padding-right: 291px;
     background-color: rgba(8, 7, 7, 0.685);
-    margin-top: 213px;
+    margin-top: 209px;
     
 }
 
