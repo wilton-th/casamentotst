@@ -3,11 +3,12 @@
  @import url('https://fonts.googleapis.com/css2?family=Dancing+Script&family=Great+Vibes&family=Quicksand:wght@300&family=Raleway:wght@100;200&display=swap');
  @import url('https://fonts.googleapis.com/css2?family=Explora&display=swap');
 
+
 .top {
     padding: 14px;
     background-color: rgba(5, 4, 4, 0.781);
-    margin-top: -493px;
-    padding-right: 267px;
+    margin-top: -520px;
+    padding-right: 291px;
 }
 
 .top li {
@@ -23,7 +24,7 @@
 .ban {
     padding: 216px;
     background-color: rgba(8, 7, 7, 0.685);
-    margin-top: -432px;
+    margin-top: -460px;
 }
 
 .text1 h1 {
@@ -68,7 +69,7 @@
     padding-left: 30px;
     padding-right: 30px;
     background-color: rgb(207, 138, 54);
-    margin-top: -70px;
+    margin-top: -90px;
     margin-left: 95px;
     font-weight: bold;
     color: rgb(0, 0, 0);
@@ -77,8 +78,8 @@
 }
 
 .ali {
-    margin-top: -473px;
-    margin-left: 340px;
+    margin-top: -500px;
+    margin-left: 370px;
 }
 
 .bot {
@@ -94,10 +95,11 @@
 }
 
 .ban2 {
-    padding: 118px;
-    padding-right: 280px;
+    padding: 124px;
+    padding-right: 290px;
     background-color: rgba(8, 7, 7, 0.685);
-    margin-top: 235px;
+    margin-top: 222px;
+    
 }
 
 .text2 {
