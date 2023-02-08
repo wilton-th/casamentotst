@@ -1,0 +1,129 @@
+ @import url('https://fonts.googleapis.com/css2?family=Great+Vibes&display=swap');
+ @import url('https://fonts.googleapis.com/css2?family=Great+Vibes&family=Raleway:wght@100;200&display=swap');
+ @import url('https://fonts.googleapis.com/css2?family=Dancing+Script&family=Great+Vibes&family=Quicksand:wght@300&family=Raleway:wght@100;200&display=swap');
+ @import url('https://fonts.googleapis.com/css2?family=Explora&display=swap');
+
+.top {
+    padding: 14px;
+    background-color: rgba(5, 4, 4, 0.781);
+    margin-top: -493px;
+    padding-right: 267px;
+}
+
+.top li {
+    text-decoration: none;
+    display: block;
+    font-size: 22px;
+    font-family: 'Explora', cursive;
+    margin-left: -2px;
+    color: bisque;
+    font-style: italic;
+}
+
+.ban {
+    padding: 216px;
+    background-color: rgba(8, 7, 7, 0.685);
+    margin-top: -432px;
+}
+
+.text1 h1 {
+    color: white;
+    margin-top: -400px;
+    margin-left: 120px;
+    font-size: 10px;
+    font-family: 'Raleway', sans-serif;
+    letter-spacing: 4px;
+    
+}
+
+.text1 h2 {
+    color: white;
+    margin-top: -270px;
+    margin-left: 45px;
+    font-family: 'Quicksand', sans-serif;
+    letter-spacing: 6px;   
+    transition: 1s linear;
+}
+
+.text1 h3 {
+    color: white;
+    margin-top: -230px;
+    margin-left: 165px;
+    font-size: 10px;
+    letter-spacing: 5px;
+    
+}
+
+.text1 h4 {
+    color: white;
+    margin-top: -170px;
+    margin-left: 50px;
+    font-family: 'Raleway', sans-serif;
+    font-style: italic;
+    font-size: 18px;
+}
+
+.dat {
+    padding: 8px;
+    padding-left: 30px;
+    padding-right: 30px;
+    background-color: rgb(207, 138, 54);
+    margin-top: -70px;
+    margin-left: 95px;
+    font-weight: bold;
+    color: rgb(0, 0, 0);
+    font-family:'Raleway', sans-serif ;
+
+}
+
+.ali {
+    margin-top: -473px;
+    margin-left: 340px;
+}
+
+.bot {
+    padding: 8px;
+    padding-left: 38px;
+    padding-right: 30px;
+    background-color: rgb(207, 138, 54);
+    margin-top: 220px;
+    margin-left: 95px;
+    font-weight: bold;
+    color: rgb(0, 0, 0);
+    font-family:'Raleway', sans-serif ;
+}
+
+.ban2 {
+    padding: 118px;
+    padding-right: 280px;
+    background-color: rgba(8, 7, 7, 0.685);
+    margin-top: 235px;
+}
+
+.text2 {
+    color: rgb(255, 255, 255);
+    margin-top: 290px;
+    font-family: 'Raleway', sans-serif;
+    font-style: italic;
+    font-size: 16px;
+    text-align: center;
+    margin-left: 60px;
+}
+
+.button {
+    margin-top: 395px;
+    margin-left: 120px;
+    border-radius: 40px ;
+    padding: 8px;
+    padding-left: 52px;
+    padding-right: 52px;
+    background-color:rgb(207, 138, 54);
+    color: rgb(0, 0, 0);
+    font-weight: bold;
+    font-size: 20px; 
+    border-color: black;  
+}
+
+.button a:hover {
+    transition: 1s linear;
+}
